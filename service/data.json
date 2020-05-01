@@ -1,0 +1,55 @@
+{
+	"data": {
+		"K2ib4H77rj0LYewF7dP": {
+			"station" : "S001",
+			"datetime" : "16/12/06,10:52:32+00",
+			"temperature" : "43",
+		        "humidy" : "50",
+			"gas" : {
+				"co2" : "23",
+				"lpg": "05"
+			}
+		},
+		"K2ib5JHRbbL0NrztUfO": {
+			"station" : "S001",
+			"datetime": "16/12/06,11:03:30+00",
+			"temperature": "42",
+		        "humidy": 49",
+			"gas": {
+			 	"co2": "23",
+				"lpg": "05"
+			}
+		},
+		"K2ibdfjh45dfADFEuty": {
+			"station" : "S001",
+			"datetime": "16/12/06,11:12:25+00",
+			"temperature": "43",
+		        "humidy": "48",
+			"gas": {
+			 	"co2": "23",
+				"lpg": "05"
+			}
+		},
+		"K2ib45sdfe25dfDRdfd": {
+			"station" : "S001",
+			"datetime": "16/12/06,11:21:20+00",
+			"temperature": "43",
+		        "humidy": "48",
+			"gas": {
+			 	"co2": "23",
+				"lpg": "05"
+			}
+		},
+		"K2ib25dfdfERTd45ert": {
+			"station" : "S001",
+			"datetime": "16/12/06,11:32:25+00",
+			"temperature": "43",
+		        "humidy": "48",
+			"gas": {
+			 	"co2": "23",
+				"lpg": "05"
+			}
+		}
+	}        
+}
+    
